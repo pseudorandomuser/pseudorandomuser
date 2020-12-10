@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
+
+I am an undergraduate Cybersecurity student in Germany.  
+My interests mainly consist of security related topics and home automation.  
+If you want to get in touch with me, feel free to use any of the channels below:
+
+[🌍 Go to my website](https://schmier.xyz)  
+[✉️ Contact me by E-Mail](mailto:jostpit.lu@gmail.com)  
 
 <!--
 **pseudorandomuser/pseudorandomuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
