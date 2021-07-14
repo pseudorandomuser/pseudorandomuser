@@ -6,8 +6,8 @@ My interests mainly consist of security related topics and home automation.
 If you want to get in touch with me, feel free to use any of the channels below:
 
 [🌍 Go to my website](https://jost.sh)  
-[✉️ Contact me by E-Mail](mailto:jostpit.lu@gmail.com)  
-[👨🏻‍💼 Contact me via LinkedIn](https://www.linkedin.com/in/pit-jost)  
+[✉️ Contact me via E-Mail](mailto:jostpit.lu@gmail.com)  
+[👨🏻‍💼 Connect with me on LinkedIn](https://www.linkedin.com/in/pit-jost)  
 
 <!--
 **pseudorandomuser/pseudorandomuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
