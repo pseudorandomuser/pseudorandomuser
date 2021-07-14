@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile 👋
 
 Just your ordinary Cybersecurity student from Germany.  
-Low maintenance, runs mostly on coffee and pineapple-free pizza.
+Low maintenance, runs mostly on coffee and pineapple-free pizza.  
 My interests mainly consist of security related topics and home automation.  
 If you want to get in touch with me, feel free to use any of the channels below:
 
