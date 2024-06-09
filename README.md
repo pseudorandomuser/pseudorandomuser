@@ -9,6 +9,6 @@ Check out [Ansiblization](https://github.com/ansiblization), the organization I 
 
 If you want to get in touch with me, feel free to use any of the channels below:
 
-[🌍 Visit my website](https://www.jost.sh)
-[✉️ Contact me via E-Mail](mailto:pit@jost.sh)
+[🌍 Visit my website](https://www.jost.sh)<br>
+[✉️ Contact me via E-Mail](mailto:pit@jost.sh)<br>
 [👨🏻‍💼 Connect with me on LinkedIn](https://www.linkedin.com/in/pit-jost)
