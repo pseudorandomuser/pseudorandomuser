@@ -1,25 +1,14 @@
 ### Welcome to my GitHub profile 👋
 
-Just your ordinary Cybersecurity student from Germany.  
-Low maintenance, runs mostly on coffee and pineapple-free pizza.  
-My interests mainly consist of security related topics and home automation.  
+Just your ordinary Cybersecurity student from Luxembourg.
+Low maintenance, runs mostly on caffeine and pineapple-free pizza.
+My main interests are computer networking, automating infrastructure deployment and home automation.
+
+I am a big advocate of automating things with [Ansible](https://www.ansible.com) whenever possible, both for private and professional use.
+Check out [Ansiblization](https://github.com/ansiblization), the organization I have created to publish the Ansible roles I am writing for my home network.
+
 If you want to get in touch with me, feel free to use any of the channels below:
 
-[🌍 Go to my website](https://jost.sh)  
-[✉️ Contact me via E-Mail](mailto:jostpit.lu@gmail.com)  
-[👨🏻‍💼 Connect with me on LinkedIn](https://www.linkedin.com/in/pit-jost)  
-
-<!--
-**pseudorandomuser/pseudorandomuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌍 Go to my website](https://www.jost.sh)
+[✉️ Contact me via E-Mail](mailto:pit@jost.sh)
+[👨🏻‍💼 Connect with me on LinkedIn](https://www.linkedin.com/in/pit-jost)
